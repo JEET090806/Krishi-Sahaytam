@@ -36,6 +36,7 @@ The dataset used for training was sourced from **Kaggle**, containing thousands 
 - Used a **Convolutional Neural Network (CNN)** architecture.
 - Achieved high accuracy on validation data.
 - Optimized for edge deployment with quantization.
+- AI model --- https://smartphone.edgeimpulse.com/classifier.html?publicProjectId=672179
 
 ---
 
