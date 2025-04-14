@@ -58,6 +58,7 @@ This project is open-source under the MIT License. See `LICENSE` for details.
 
 ## ✉️ Contact
 For feedback or collaboration, feel free to reach out via GitHub Issues or email.
+
 jeetpandya2006@gmail.com
 ---
 
