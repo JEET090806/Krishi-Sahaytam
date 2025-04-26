@@ -60,6 +60,7 @@ This project is open-source under the MIT License. See `LICENSE` for details.
 For feedback or collaboration, feel free to reach out via GitHub Issues or email.
 
 jeetpandya2006@gmail.com
+------------------------
 omaprajapati06@gmail.com
 ---
 
